@@ -9,7 +9,7 @@ idf.py size
 
 idf.py size-components
 
-![alt text](image-6.png)
+![alt text](image/image-6.png)
 
 idf.py size-files
 
