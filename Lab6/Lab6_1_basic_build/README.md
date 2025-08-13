@@ -4,12 +4,15 @@ This project demonstrates a standard ESP32 project structure using ESP-IDF and C
 
 # บันทึกผลการทดลอง
 idf.py size
+
 ![alt text](image/image.png)
 
 idf.py size-components
+
 ![alt text](image-6.png)
 
 idf.py size-files
+
 ![alt text](image/image-1.png)
 ![alt text](image/image-2.png)
 ![alt text](image/image-4.png)
@@ -17,6 +20,7 @@ idf.py size-files
 ![alt text](image/image-5.png)
 
 แก้ไข main/lab6_1_basic_build.c:
+
 ![alt text](image/image.png)
 
 
